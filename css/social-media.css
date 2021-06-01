@@ -1,0 +1,23 @@
+/* 
+* social media icons
+*/
+
+.widget_social-media .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.5rem;
+  width: 2.5rem;
+  background-color: white;
+  border-radius: 100%;
+  font-size: 1.2rem;
+  margin-right: .5rem;
+}
+
+.widget_social-media .social-icon:last-child {
+  margin-right: 0;
+}
+
+.widget_social-media .social-icon:hover {
+  color: #d1b7b2;
+}
